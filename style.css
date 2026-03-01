@@ -10,6 +10,10 @@ h1 {
     margin-bottom: 40px;
 }
 
+.description{
+    text-align: center;
+}
+
 .container {
     max-width: 900px;
     margin: auto;
