@@ -64,6 +64,10 @@ tr:not(:last-child) {
     border-bottom: 1px solid #eee;
 }
 
+#dell-laptop-site{
+    text-align: center;
+}
+
 /* スマホ最適化 */
 @media (max-width: 600px) {
     body {
