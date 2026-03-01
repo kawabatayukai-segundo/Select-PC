@@ -29,7 +29,17 @@ h1 {
 
 .product h2 {
     margin-top: 0;
+    color: crimson;
     font-size: 1.3rem;
+}
+
+.product img {
+    width: 100%;        /* product幅に合わせる */
+    max-width: 100%;    /* はみ出さない */
+    height: auto;       /* 縦横比維持 */
+    margin-top: 15px;
+    border-radius: 8px;
+    display: block;
 }
 
 table {
